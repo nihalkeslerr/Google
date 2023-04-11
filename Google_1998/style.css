@@ -1,0 +1,24 @@
+.container {
+    margin: 14% auto;
+    text-align: center;
+}
+.first input[type="text"] {
+    width: 33%;
+}
+
+.first {
+    background: #eeeeee;
+}
+.second {
+    display: flex;
+    width: 100%;
+    /* background-color: green; */
+    height: 99px;
+}
+.second div {
+    background: #62b3aa;
+    margin-right: 4px;
+    width: 33%;
+    padding-top: 10px;
+    margin-top: 4px;
+}
